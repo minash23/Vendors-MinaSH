@@ -1,0 +1,14 @@
+# Ignore compiled output files
+*.class
+*.jar
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE-specific files
+*.iml
+*.xml
+.idea/
+
+# Ignore other common files you don't want to track
+out.*
